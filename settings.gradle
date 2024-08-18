@@ -16,9 +16,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+
     }
 }
 
 rootProject.name = "ExampleQWE2"
 include ':app'
-include ':Calcumator Library'
+include ':CalcumatorLibrary'
